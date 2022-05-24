@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+body{
+    background-color: #1E2D3B;
+}
+
+/* header */
+
+header {
+    height: 50px;
+    background-color: #2e3a46;
+    padding-right: 40px
+}
+img {
+    height: 40px;
+    margin: 5px 40px;
+}
+
+
+/* main */
+
+main{
+    background-color: #1E2D3B;
+}
