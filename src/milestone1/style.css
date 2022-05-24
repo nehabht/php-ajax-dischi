@@ -20,7 +20,7 @@ header {
     background-color: #2e3a46;
     padding-right: 40px
 }
-img {
+header img {
     height: 40px;
     margin: 5px 40px;
 }
@@ -30,4 +30,22 @@ img {
 
 main{
     background-color: #1E2D3B;
+}
+
+.card {
+    padding: 1rem;
+    border-radius: 0;
+    height: 100%;
+    background-color: #2e3a46;
+
+  
+}
+
+.info {
+    color: white;
+}
+
+h5 {
+    color: white;
+    text-transform: uppercase;
 }
