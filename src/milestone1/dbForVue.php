@@ -72,3 +72,7 @@ $albums = [
         "year"=> "1987"
     ]
 ];
+
+
+header('Access-Control-Allow-Origin: *');
+echo json_encode($albums);
